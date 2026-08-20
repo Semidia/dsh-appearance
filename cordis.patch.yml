@@ -1,0 +1,5 @@
+# dsh-appearance profile layer: mounts the host row so the Loader enables the
+# entry; the browser half is served from the package's dsh.client manifest.
+- insert:
+    - id: dsh-appearance
+      name: 'dsh-appearance'
